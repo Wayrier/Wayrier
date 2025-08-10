@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
+🎓 Fachinformatiker Anwendungsentwicklung (in training)  
+💻 Skills: Java, Python, SQL, HTML/CSS/JS, Git  
+🚀 Currently learning: Web development & software engineering best practices  
 
-<!--
-**Wayrier/Wayrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured Projects
+- [Java Banking App](https://github.com/Wayrier/Java-Project)
+- [Python Data Processor](https://github.com/Wayrier/Python-Project)
+- [SQL Database Demo](https://github.com/Wayrier/SQL-Project)
+- [Web Portfolio](https://github.com/Wayrier/Web-Project)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+Email: wayrier@gmail.com
+LinkedIn: [linkedin.com/in/mohammed-afana](https://linkedin.com/in/mohammed-afana)
