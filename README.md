@@ -11,4 +11,4 @@
 
 ## 📫 Contact
 Email: wayrier@gmail.com
-LinkedIn: [linkedin.com/in/mohammed-afana](https://linkedin.com/in/mohammed-afana)
+LinkedIn: [linkedin.com/in/afana-mohammed](https://linkedin.com/in/afana-mohammed)
