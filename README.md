@@ -8,6 +8,8 @@
 - [Python Data Processor](https://github.com/Wayrier/Python-Project)
 - [SQL Database Demo](https://github.com/Wayrier/SQL-Project)
 - [Web Portfolio](https://github.com/Wayrier/Web-Project)
+- [CSV & JSON Address Manager (Java)](https://github.com/Wayrier/java-csv-json-address-manager)
+
 
 ## 📫 Contact
 Email: wayrier@gmail.com
